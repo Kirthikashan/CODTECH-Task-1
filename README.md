@@ -11,7 +11,7 @@
 ### Project: BMI TRACKER APP
 ![BMI tracker op](https://github.com/user-attachments/assets/9af00829-2f45-42fc-9122-5057ebfd8c51)
 
-###Objective
+### Objective
 Calculate BMI: Provide users with a simple and accurate way to calculate their Body Mass Index (BMI) based on their height and weight.
 User-Friendly Interface: Design an intuitive and user-friendly interface for easy data input and result interpretation.
 Categorize BMI: Classify BMI results into categories such as underweight, normal weight, overweight, and obesity for better understanding.
@@ -36,7 +36,7 @@ Testing:
 Test the app on different devices using FlutLab to ensure it works as expected.
 Verify the accuracy of the BMI calculations and category classifications.
 
-###Technologies Used
+### Technologies Used
 Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 Dart: The programming language used by Flutter.
 FlutLab: An online IDE for Flutter development, allowing for easy testing and deployment.
